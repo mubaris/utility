@@ -1,3 +1,4 @@
+// Package utility package contains bunch of functions to help you write better golang code.
 package utility
 
 import (
